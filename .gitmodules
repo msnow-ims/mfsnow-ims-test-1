@@ -1,0 +1,3 @@
+[submodule "mfsnow-ims-test-2"]
+	path = mfsnow-ims-test-2
+	url = https://github.com/msnow-ims/mfsnow-ims-test-2
